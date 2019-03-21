@@ -28,7 +28,7 @@ web前端开发需要的资源
 - [Mock.js](http://mockjs.com/)
 
 ### 其它
-- [anywhere](https://www.npmjs.com/package/anywhere) 随启随用的静态文件服务器
+- [Anywhere](https://www.npmjs.com/package/anywhere) 随启随用的静态文件服务器
 
 ## 框架
 ### 纯前端框架
